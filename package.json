@@ -16,5 +16,11 @@
     "lint",
     "validate",
     "test"
-  ]
+  ],
+  "dependencies": {
+    "closure-compiler": "^0.2.12",
+    "css-b64-images": "^0.2.5",
+    "html-minifier": "^1.0.0",
+    "no-promise-dir-tree": "0.0.2"
+  }
 }
