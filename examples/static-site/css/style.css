@@ -1,0 +1,25 @@
+body {
+  background-color: #CCC;
+  text-align: center;
+}
+
+div.foobar {
+  background-image: url('../img/foobar.png');
+  width: 640px;
+  height: 480px;
+  margin: auto;
+  background-size: 100px;
+  transition: background-size 1s;
+}
+
+div.foobar:hover {
+  background-size: 300px;
+}
+
+img {
+  transition: transform 1s;
+}
+
+img:hover {
+  transform: rotate(90deg);
+}
