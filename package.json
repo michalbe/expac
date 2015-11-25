@@ -19,6 +19,7 @@
   ],
   "dependencies": {
     "async-each": "^1.0.0",
+    "base64-file-coder-node": "^1.0.3",
     "base64-img": "^1.0.3",
     "closure-compiler": "^0.2.12",
     "css-b64-images": "^0.2.5",
